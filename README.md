@@ -1,2 +1,7 @@
-# demo-estudio-juridico-dra-stronati
-Demo web para Estudio Jurídico Dra. Stronati — diseñada por eterlab.
+# Estudio Jurídico Dra. Stronati
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
